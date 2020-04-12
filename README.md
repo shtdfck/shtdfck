@@ -1,2 +1,0 @@
-# shtdfck
-Created with CodeSandbox
